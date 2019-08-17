@@ -52,7 +52,11 @@
    border-radius: 5px;
  }
 
+/* Showcase */
+#showcase {
+  background: #333 url('../img/showcase.jpg') no-repeat center center/cover;
 
+}
 
 
 
