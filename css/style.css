@@ -29,6 +29,28 @@
    line-height: 1.1;
  }
 
+ .lead {
+   font-size: 1.3rem;
+   margin-bottom: 2rem;
+ }
+ 
+ .btn {
+   display: inline-block;
+   color: #fff;
+   background: #93cb52;
+   padding: 0.5rem 2rem;
+   border-radius: 5px;
+ }
+
+ .btn:hover {
+   background: #7ab436;
+ }
+
+ .btn-dark {
+   background: #333;
+   color: #fff;
+ }
+
  /* Navbar */
  #navbar{
    display: flex;
