@@ -62,7 +62,19 @@
 #showcase .showcase-content {
   display: flex;
   flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 0 2rem;
+  /* Overlay */
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0, 0.4);
 }
+
+
 
 
 
