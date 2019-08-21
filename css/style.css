@@ -133,7 +133,18 @@
   background-color: rgba(0,0,0, 0.4);
 }
 
- 
+/* Section: What We Do */
+.items {
+  display: flex;
+  padding: 1rem;
+}
+
+.item {
+  flex: 1;
+  text-align: center;
+  padding: 1rem;
+}
+
 
 
 
