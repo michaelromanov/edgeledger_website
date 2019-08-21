@@ -134,12 +134,12 @@
 }
 
 /* Section: What We Do */
-.items {
+#what .items {
   display: flex;
   padding: 1rem;
 }
 
-.item {
+#what .items .item {
   flex: 1;
   text-align: center;
   padding: 1rem;
