@@ -16,7 +16,6 @@
   margin-bottom: 0;
 }
 
-
 /* Smartphones */
 @media(max-width: 500px){
   #navbar {
@@ -33,6 +32,28 @@
     padding: 0.5rem;
   }
 
+  #showcase .showcase-content{
+     top: 110px;
+  }
+
+  #who {
+    display: block;
+  }
+
+  #who .who-img {
+    display: none;
+  }
+
+  #clients .items img{
+    width: 80%;
+  }
+
+  #clients .items div:last-child{
+    display: none;
+  }
+  #contact {
+    flex-direction: column;
+  }
 }
 
 
